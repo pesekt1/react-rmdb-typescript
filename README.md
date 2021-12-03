@@ -15,7 +15,7 @@ Once you have it, use it in the .env file:
 REACT_APP_API_KEY= ...
 ```
 
-Run:
+Run:.
 
 ```
 npm install
