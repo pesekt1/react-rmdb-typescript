@@ -41,3 +41,5 @@ const IMAGE_BASE_URL: string = 'http://image.tmdb.org/t/p/';
 
 API Documentation: https://developers.themoviedb.org/3/getting-started/introduction
 
+
+--
